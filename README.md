@@ -3,7 +3,7 @@
 # Construcción de Software 2 martes y Jueves 20:00 - 22:00 
 
 ## Integrantes
--[ANderson Zapata Arboleda]
+-[Anderson Zapata Arboleda]
 
 ## Tecnología en que sedesarrolla
 -<Apache Netbeans>
